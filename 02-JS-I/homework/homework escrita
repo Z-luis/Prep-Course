@@ -1,0 +1,6 @@
+-Variable: lugar de la memoria al que la computadora le pone el nombre que nosotros le indicamos y le guarda los datos que le damos
+-String: es un tipo de dato correspondiente a una o mas letras, encerradas entre comillas
+-Funcion: es una serie de instrucciones que le damos a la computadora para que guarde con el nombre que le damos, de forma tal que podamos usarlas sin tener que volver a escribirlas. Para llevarse a cabo estas instrucciones pueden requerir uno o mas datos adicionales llamados argumentos, y pueden devolver informacion a traves del statement 'return'.
+-Declaraciones 'if': son instrucciones que se llevan a cabo solamente si se cumple una condicion.
+-Valores Booleanos: son un tipo de datos que solo pueden tener uno de dos valores: true o false.
+
